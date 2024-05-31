@@ -1,0 +1,8 @@
+# Ignore the settings.env file
+settings.env
+
+# Other common ignores (optional)
+*.log
+*.pyc
+__pycache__/
+.env
